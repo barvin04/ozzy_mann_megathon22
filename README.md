@@ -57,6 +57,7 @@ https://user-images.githubusercontent.com/23654473/197369002-f63be1e4-9370-4736-
 ***
 ## B. Implementing MQTT (or other) protocol or secure cloud communication protocol
 
+<img width="706" alt="mqtt_overview" src="https://user-images.githubusercontent.com/23654473/197376577-4b8fb5a9-5618-48c0-8f1f-8c462515ec6c.png">
 
 
 
