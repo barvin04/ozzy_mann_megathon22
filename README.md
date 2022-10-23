@@ -5,11 +5,11 @@ Libraries/Frameworks: PyTorch, Detectron.
 
 ***
 ## A. Image Detection/Segmentation using AI algorithms
-# Installation
+## Installation
 ### Requirements
 - Linux or macOS with Python ≥ 3.7
 - PyTorch ≥ 1.8 and torchvision that matches the PyTorch installation. Install them together at pytorch.org to make sure of this
-- OpenCV is optional but needed by demo and visualization
+- OpenCV is optional but needed by demo and visualization  
 [Installation!](https://detectron2.readthedocs.io/en/latest/tutorials/install.html)
 
 # Realtime detection colab demo
