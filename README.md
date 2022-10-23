@@ -1,5 +1,6 @@
 # ozzy_mann_megathon22
-Solution(Q2) to Megathon22 IIIT-H
+Solution(Q2) to Megathon22 IIIT-H  
+Presentation link: https://docs.google.com/presentation/d/1xx0cgcoWPd1BTcNKkojRRJcijArCuvNgflX_AxOeIyc/edit?usp=sharing  
 
 Libraries/Frameworks: PyTorch, Detectron.
 
