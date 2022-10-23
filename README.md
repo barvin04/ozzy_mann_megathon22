@@ -34,6 +34,7 @@ https://user-images.githubusercontent.com/23654473/197370097-ece0ee16-2f37-434c-
 
 # Panoptic Segmentation
 Colab: https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5?usp=sharing
+shorter Colab: https://colab.research.google.com/drive/1QmncVPNvCYxB8DhIY_wPY5tzc45AA8a3?usp=sharing
 
 https://user-images.githubusercontent.com/23654473/197368995-85662d46-45a8-47a4-9d67-a3638029d4e7.mp4
 
