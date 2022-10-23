@@ -65,3 +65,6 @@ https://user-images.githubusercontent.com/23654473/197369002-f63be1e4-9370-4736-
 ### References
 - [Real-time YOLOv4 Object Detection](https://www.youtube.com/watch?v=ebAykr9YZ30)
 - [Detectron](https://detectron2.readthedocs.io/en/latest/)
+- [MQTT basic](http://www.steves-internet-guide.com/mqtt-works/)  
+- [MQTT python implementation](https://medium.com/python-point/mqtt-basics-with-python-examples-7c758e605d4)  
+
